@@ -1,0 +1,17 @@
+{
+  "name": "@regions-of-indonesia/static-api",
+  "version": "1.0.0",
+  "description": "Regions of Indonesia static API",
+  "scripts": {
+    "build": "node script.js"
+  },
+  "repository": "https://github.com/regions-of-indonesia/static-api.git",
+  "author": "flamrdevs <flamrdevs@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@regions-of-indonesia/data": "^0.5.0"
+  },
+  "devDependencies": {
+    "fs-jetpack": "^4.3.1"
+  }
+}

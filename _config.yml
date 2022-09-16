@@ -1,0 +1,8 @@
+exclude:
+  - .gitignore
+  - script.js
+  - LICENSE
+  - package.json
+  - README.md
+  - LICENSE
+  - yarn.lock
