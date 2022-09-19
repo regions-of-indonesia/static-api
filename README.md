@@ -26,7 +26,7 @@ type CodeName = {
 
 | Endpoint                                                                                                                    | Return type |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [/provinces.json](https://regions-of-indonesia.github.io/static-api/provinces/provinces.json)                               | CodeName[]  |
+| [/provinces.json](https://regions-of-indonesia.github.io/static-api/provinces.json)                                         | CodeName[]  |
 | [/province/11.json](https://regions-of-indonesia.github.io/static-api/province/11.json)                                     | CodeName    |
 | [/province/11/districts.json](https://regions-of-indonesia.github.io/static-api/province/11/districts.json)                 | CodeName[]  |
 | [/districts/11.json](https://regions-of-indonesia.github.io/static-api/districts/11.json)                                   | CodeName[]  |
