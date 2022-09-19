@@ -22,6 +22,7 @@ function stringify(json) {
 }
 
 const folder = {
+  root: (...args) => args.join("/"),
   province: (...args) => "province/" + args.join("/"),
   provinces: (...args) => "provinces/" + args.join("/"),
   district: (...args) => "district/" + args.join("/"),
@@ -59,7 +60,7 @@ Object.keys(folder).forEach((key) => {
 
 // PROVINCES
 
-write.provinces && jetpack.write(folder.provinces("provinces.json"), stringify(ProvincesCodeNames));
+write.provinces && jetpack.write(folder.root(codedotjson("provinces")), stringify(ProvincesCodeNames));
 
 console.time("provinces");
 ProvincesCodeNames.forEach((province) => {
