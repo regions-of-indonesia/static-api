@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@regions-of-indonesia/data@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@regions-of-indonesia/data/-/data-1.2.0.tgz#34e9b32b06c015c71cef7f4f15fcec4b4a2da491"
-  integrity sha512-w/KFkhB7PVmXKNL1lW7L0W4DnfWO3uDOCBSMzGMTCeLK7opDEMWuoNeFyeZcQcX0DxfY8Puc0kV02yED+/Jtcg==
+"@regions-of-indonesia/data@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@regions-of-indonesia/data/-/data-2.0.0.tgz#7d265b4b0791410ebf9c01ee2716115ff40da941"
+  integrity sha512-45h7sax8sCJ8HUk3XaDxrgNVQbNAyyB6sqNDToL8rSZEofcolX6D2qD6434ewNnxvvoHcQG9YHJf9JD7xawbow==
 
 balanced-match@^1.0.0:
   version "1.0.2"
