@@ -9,9 +9,9 @@
   "author": "flamrdevs <flamrdevs@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "@regions-of-indonesia/data": "^2.0.0"
+    "@regions-of-indonesia/data": "^2.1.0"
   },
   "devDependencies": {
-    "fs-jetpack": "^4.3.1"
+    "fs-jetpack": "^5.1.0"
   }
 }
